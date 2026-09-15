@@ -1,0 +1,2 @@
+O tempo de execucao pode mudar conforme o numero de threads.
+Arquivos pequenos tambem podem ser pesquisados.

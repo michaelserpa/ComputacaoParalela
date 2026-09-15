@@ -1,0 +1,2 @@
+O escalonamento static possui pouca sobrecarga.
+O escalonamento dynamic pode ajudar quando os trabalhos sao diferentes.

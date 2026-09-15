@@ -1,0 +1,1 @@
+Os programas sequencial e paralelo devem produzir exatamente o mesmo total.

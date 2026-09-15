@@ -1,0 +1,2 @@
+A computacao paralela utiliza mais de um nucleo do processador.
+Uma busca pode ser dividida entre diferentes threads.

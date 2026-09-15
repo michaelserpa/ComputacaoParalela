@@ -7,7 +7,7 @@
  int main (int argc, char *argv[]) {
    int th_id, nthreads;
 
-   // omp_set_num_threads(4); // disparar 4 threads pois se trata de uma máquina Quad-Core
+   // omp_set_num_threads(4); // disparar 4 threads pois se trata de uma mï¿½quina Quad-Core
    
    #pragma omp parallel private(th_id, nthreads) num_threads(4)
    {

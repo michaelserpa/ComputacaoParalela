@@ -1,0 +1,2 @@
+Este e apenas mais um arquivo para a busca.
+OpenMP OpenMP OpenMP.

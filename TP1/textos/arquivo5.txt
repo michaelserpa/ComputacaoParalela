@@ -1,0 +1,2 @@
+Uma reduction combina resultados calculados pelas threads.
+Neste trabalho, ela calcula o total de ocorrencias.

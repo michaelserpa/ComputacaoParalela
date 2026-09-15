@@ -1,0 +1,2 @@
+Neste exemplo, cada thread pesquisa uma palavra em um arquivo.
+OpenMP distribui os arquivos entre as threads.

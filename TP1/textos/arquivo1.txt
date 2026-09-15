@@ -1,0 +1,2 @@
+OpenMP permite executar partes de um programa em paralelo.
+Este primeiro texto apresenta OpenMP.
